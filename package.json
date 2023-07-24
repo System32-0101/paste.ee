@@ -1,0 +1,19 @@
+{
+  "name": "paste.ee-api",
+  "version": "1.1.0",
+  "description": "A easy library to interact with paste.ee API and use latest features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paste.ee",
+    "paste",
+    "text",
+    "expires",
+    "encoded",
+    "pastebin2"
+  ],
+  "author": "Systemm32",
+  "license": "MIT"
+}
